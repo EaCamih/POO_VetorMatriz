@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.exe
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.deps.json
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.runtimeconfig.json
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.runtimeconfig.dev.json
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.dll
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\bin\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.pdb
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.AssemblyInfo.cs
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.dll
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.pdb
+C:\Users\marce\Desktop\exercicio_vetor_e_matriz\exercicio_vetor_e_matriz\obj\Debug\netcoreapp3.1\exercicio_vetor_e_matriz.genruntimeconfig.cache
