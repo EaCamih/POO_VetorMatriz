@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Desktop\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Documents\\GitHub\\POO_VetorMatriz\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz.csproj",
       "projectName": "exercicio_vetor_e_matriz",
-      "projectPath": "C:\\Users\\marce\\Desktop\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz.csproj",
+      "projectPath": "C:\\Users\\marce\\Documents\\GitHub\\POO_VetorMatriz\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Desktop\\exercicio_vetor_e_matriz\\exercicio_vetor_e_matriz\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Documents\\GitHub\\POO_VetorMatriz\\exercicio_vetor_e_matriz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
